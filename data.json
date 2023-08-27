@@ -1,0 +1,92 @@
+{
+    "arabica": [
+        {
+            "foto": "https://down-id.img.susercontent.com/file/e25971082586124a4139728f86f19157",
+            "nama": "Arabika Toraja",
+            "size": "500 Gram",
+            "harga": "Rp 115.000,-",
+            "link": "https://shopee.co.id/Kopi-Arabika-Toraja-500-Gram-Single-Origin-Bean-Biji-Ground-Bubuk-i.81689742.1455227963"
+        },
+        {
+            "foto": "https://saripertiwi.com/wp-content/uploads/2019/08/arabika-kintamani-natural.jpg",
+            "nama": "Arabika Kintamani",
+            "size": "100 Gram",
+            "harga": "Rp 150.000,-",
+            "link": "https://shopee.co.id/KOPI-ARABIKA-BALI-KINTAMANI-NATURAL-200GR-SPECIALTY-BALI-COFFEE-i.44308105.3165478130"
+        },
+        {
+            "foto": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/3/18/1fd3a8bb-e0d0-42f9-bc71-b466753bc7f8.jpg.webp?ect=4g",
+            "nama": "Arabika Gayo",
+            "size": "1000 Gram",
+            "harga": "Rp 150.000,-",
+            "link": "https://www.tokopedia.com/afifastoreid-1/kopi-arabika-aceh-gayo-1-kg-commercial-grade-bubuk-sedang-1f79f"
+        },
+        {
+            "foto": "https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/1/26/8beca78c-3a0b-48c3-83fe-00fd35178061.jpg.webp?ect=4g",
+            "nama": "Arabika Papua Wamena",
+            "size": "500 Gram",
+            "harga": "Rp 378.000,-",
+            "link": "https://www.tokopedia.com/pinjayy/kopi-arabika-papua-wamena-arabica-coffee-roast-beans-500gr-biji-bubuk?extParam=ivf%3Dfalse%26src%3Dsearch"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "https://down-id.img.susercontent.com/file/sg-11134201-22110-q5qhfm90e8jv57",
+            "nama": "Robusta Lampung",
+            "size": "1000 Gram",
+            "harga": "Rp 85.000,-",
+            "link": "https://shopee.co.id/Biji-Kopi-1kg-Full-Fine-Robusta-Lampung-i.98095058.4065508212?sp_atk=7558e153-1592-4109-99c4-e71d9b25a88a&xptdk=7558e153-1592-4109-99c4-e71d9b25a88a"
+        },
+        {
+            "foto": "https://down-id.img.susercontent.com/file/id-11134201-23030-ytij18dh0povcc",
+            "nama": "Robusta Jawa",
+            "size": "250 Gram",
+            "harga": "Rp 70.000,-",
+            "link": "https://shopee.co.id/TERMURAH-ARUTALA-Kopi-Jawa-Robusta-Java-Coffee-250-gram-i.156220924.18376275258?sp_atk=ea1bc791-de55-4b0e-91d3-46e93fec60d9&xptdk=ea1bc791-de55-4b0e-91d3-46e93fec60d9"
+        },
+        {
+            "foto": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/1/1/27df52db-aea9-4ea4-b942-9ad505a9c032.png.webp?ect=4g",
+            "nama": "Robusta Dampit",
+            "size": "250 Gram",
+            "harga": "Rp 40.000,-",
+            "link": "https://www.tokopedia.com/nata-decoffee/kopi-robusta-dampit-murni-dark-roast-250-gram-kopi-bubuk-giling-medium-medium-to-dark?extParam=ivf%3Dfalse&src=topads"
+        },
+        {
+            "foto": "https://images.tokopedia.net/img/cache/700/attachment/2019/7/16/156328531529113/156328531529113_92716c9c-a6dc-4197-a57d-1b3cbc75d8eb.png.webp?ect=4g",
+            "nama": "Robusta Pupuan Tabanan",
+            "size": "250 Gram",
+            "harga": "Rp 40.000,-",
+            "link": "https://www.tokopedia.com/kopiteh-/kopi-bali-robusta-pupuan-tabanan-250-gr-medium?extParam=ivf%3Dfalse%26src%3Dsearch"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2021/12/22/2338103892.jpg",
+            "nama": "Thailand Tea",
+            "size": "1000 Gram",
+            "harga": "Rp 50.000,-",
+            "link": "https://shopee.co.id/PREMIUM-Bubuk-Minuman-THAI-TEA-1Kg-PREMIUM-THAI-TEA-Powder-1Kg-PREMIUM-Bubuk-THAI-TEA-1Kg-i.75525846.1262077793"
+        },
+        {
+            "foto": "https://www.cleanplates.com/wp-content/uploads/Green-Tea_Wordpress-Featured-Image.jpg",
+            "nama": "Green Tea",
+            "size": "1000 Gram",
+            "harga": "Rp 50.000,-",
+            "link": "https://shopee.co.id/Bubuk-Minuman-GREEN-TEA-1Kg-Bubuk-GREEN-TEA-MATCHA-MATCHA-Powder-Bubuk-GREEN-TEA-1Kg-i.75525846.1262476715?sp_atk=54a9123d-9c29-425e-b83f-18dcb45305a4&xptdk=54a9123d-9c29-425e-b83f-18dcb45305a4"
+        },
+        {
+            "foto": "https://asset-2.tstatic.net/jatim/foto/bank/images/es-taro-susu-untuk-menu-buka-puasa.jpg",
+            "nama": "Taro",
+            "size": "1000 Gram",
+            "harga": "Rp 50.000,-",
+            "link": "https://shopee.co.id/Bubuk-Minuman-TARO-1Kg-Bubuk-TARO-1Kg-TARO-Bubuk-1Kg-TARO-Powder-1Kg-i.75525846.6248627060"
+        },
+        {
+            "foto": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/10/21/2378542575.jpg",
+            "nama": "Cokelat",
+            "size": "1000 Gram",
+            "harga": "Rp 60.000,-",
+            "link": "https://shopee.co.id/Minuman-Coklat-rasa-DARK-CHOCO-1-Kg-Bubuk-Minuman-Coklat-rasa-DARK-CHOCO-Dark-Choco-Powder-1Kg-i.75525846.1403542274?xptdk=7d43908a-4f72-4321-b104-62a90c30c727"
+        }
+    ]
+}
